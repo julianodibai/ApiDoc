@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "xlFLgQs28bzriqNrcK427HYvepF/yLcMFIdPqVhaTgNvsaUJ0dNHTONfirdWP1ELYkq1BJBkqMcoKIEV168qMw==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\juliano\\OneDrive\\Área de Trabalho\\ApiDoc\\ApiDoc.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\juliano\\.nuget\\packages\\bogus\\34.0.2\\bogus.34.0.2.nupkg.sha512",
+    "C:\\Users\\juliano\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\6.0.4\\microsoft.aspnetcore.jsonpatch.6.0.4.nupkg.sha512",
+    "C:\\Users\\juliano\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\6.0.4\\microsoft.aspnetcore.mvc.newtonsoftjson.6.0.4.nupkg.sha512",
+    "C:\\Users\\juliano\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\juliano\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\juliano\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\juliano\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\juliano\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
+    "C:\\Users\\juliano\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\juliano\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\juliano\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\juliano\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
