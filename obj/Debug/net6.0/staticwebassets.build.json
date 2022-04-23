@@ -1,11 +1,37 @@
 {
   "Version": 1,
-  "Hash": "j+GPTJmognVZJ0+S/CBprdOtbBW/g7SePNv5YmWq9mY=",
+  "Hash": "HR6sQNwHi5QQCcSfWnDbSHKjFmwSulxYz9XMME/4NKo=",
   "Source": "ApiDoc",
   "BasePath": "_content/ApiDoc",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": []
+  "DiscoveryPatterns": [
+    {
+      "Name": "ApiDoc\\wwwroot",
+      "Source": "ApiDoc",
+      "ContentRoot": "C:\\Users\\juliano\\OneDrive\\Área de Trabalho\\ApiDoc\\wwwroot\\",
+      "BasePath": "_content/ApiDoc",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\juliano\\OneDrive\\Área de Trabalho\\ApiDoc\\wwwroot\\Index.html",
+      "SourceId": "ApiDoc",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\juliano\\OneDrive\\Área de Trabalho\\ApiDoc\\wwwroot\\",
+      "BasePath": "_content/ApiDoc",
+      "RelativePath": "Index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Index.html"
+    }
+  ]
 }

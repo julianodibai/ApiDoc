@@ -29,6 +29,6 @@ C:\Users\juliano\OneDrive\Área de Trabalho\ApiDoc\obj\Debug\net6.0\scopedcss\bu
 c:\Users\juliano\OneDrive\Área de Trabalho\ApiDoc\obj\Debug\net6.0\ApiDoc.csproj.CopyComplete
 C:\Users\juliano\OneDrive\Área de Trabalho\ApiDoc\obj\Debug\net6.0\ApiDoc.dll
 C:\Users\juliano\OneDrive\Área de Trabalho\ApiDoc\obj\Debug\net6.0\ref\ApiDoc.dll
-C:\Users\juliano\OneDrive\Área de Trabalho\ApiDoc\obj\Debug\net6.0\ApiDoc.xml
 C:\Users\juliano\OneDrive\Área de Trabalho\ApiDoc\obj\Debug\net6.0\ApiDoc.pdb
 c:\Users\juliano\OneDrive\Área de Trabalho\ApiDoc\obj\Debug\net6.0\ApiDoc.genruntimeconfig.cache
+C:\Users\juliano\OneDrive\Área de Trabalho\ApiDoc\bin\Debug\net6.0\ApiDoc.staticwebassets.runtime.json

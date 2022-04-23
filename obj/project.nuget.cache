@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xlFLgQs28bzriqNrcK427HYvepF/yLcMFIdPqVhaTgNvsaUJ0dNHTONfirdWP1ELYkq1BJBkqMcoKIEV168qMw==",
+  "dgSpecHash": "OIITSSpS3iODnp3RvFuL5ER4NAsyHo5YBTzIbTamPu82Y++c34nXHPu2Pxj/xzLJhZIM4ORzK+Vr+zGkxWxLpA==",
   "success": true,
-  "projectFilePath": "c:\\Users\\juliano\\OneDrive\\Área de Trabalho\\ApiDoc\\ApiDoc.csproj",
+  "projectFilePath": "C:\\Users\\juliano\\OneDrive\\Área de Trabalho\\ApiDoc\\ApiDoc.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\juliano\\.nuget\\packages\\bogus\\34.0.2\\bogus.34.0.2.nupkg.sha512",
     "C:\\Users\\juliano\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\6.0.4\\microsoft.aspnetcore.jsonpatch.6.0.4.nupkg.sha512",

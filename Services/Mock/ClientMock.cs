@@ -2,7 +2,7 @@ using ApiDoc.Entities;
 using Bogus;
 using static Bogus.DataSets.Name;
 
-namespace ApiDoc.Mock
+namespace ApiDoc.Services.Mock
 {
     public class ClientMock
     {
